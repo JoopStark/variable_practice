@@ -8,3 +8,8 @@ neg_num = -12
 my_age = 33
 height_inches = 70
 
+pi = 3.141
+golden_rat = 1.618
+wills_age = 1.5833
+ravens_age = 0.03
+
