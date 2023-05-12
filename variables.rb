@@ -17,3 +17,8 @@ pineapple_on_pizza = false
 dogs_best = true
 bears_poop_in_woods = true
 all_birds_migrate = false
+
+first = "Once upon a midnight dreary, while I pondered, weak and weary"
+second = "Over many a quaint and curious volume of forgotten lore"
+
+puts first, second, third, forth, dogs_best, neg_num, golden_rat
