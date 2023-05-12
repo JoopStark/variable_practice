@@ -13,3 +13,7 @@ golden_rat = 1.618
 wills_age = 1.5833
 ravens_age = 0.03
 
+pineapple_on_pizza = false
+dogs_best = true
+bears_poop_in_woods = true
+all_birds_migrate = false
